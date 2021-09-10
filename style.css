@@ -1,0 +1,28 @@
+body{
+    font-family: 'Kaisei HarunoUmi' , sans-serif;
+    font-weight: 700;
+    background-color: rgb(252, 227, 246);
+}
+
+h1{
+    color: rgb(159, 202, 252);
+}
+
+h2{
+    color: rgb(204, 156, 243);
+}
+
+h3{
+    color: rgb(127, 136, 255);
+}
+
+p{
+    font-style: normal;
+}
+
+canvas{
+    background-color: burlywood;
+    height: 30%;
+    width: 60%;
+
+}
